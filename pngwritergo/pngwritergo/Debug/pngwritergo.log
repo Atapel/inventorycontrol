@@ -1,0 +1,54 @@
+﻿  stdafx.cpp
+  pngwritergo.cpp
+h:\documents\pngwritergo\pngwritergo\pngwritergo\pngwritergo.cpp(150): warning C4101: 'id': unreferenced local variable
+h:\documents\pngwritergo\pngwritergo\pngwritergo\pngwritergo.cpp(322): warning C4018: '<': signed/unsigned mismatch
+  pngwriter.lib(png.obj) : MSIL .netmodule or module compiled with /GL found; restarting link with /LTCG; add /LTCG to the link command line to improve linker performance
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+libcpmtd.lib(wlocale.obj) : error LNK2001: unresolved external symbol __calloc_dbg
+libcpmtd.lib(xlocale.obj) : error LNK2001: unresolved external symbol __calloc_dbg
+pngwritergo.obj : error LNK2001: unresolved external symbol __calloc_dbg
+pngwriter.lib(pngwriter.obj) : error LNK2001: unresolved external symbol __calloc_dbg
+libcpmtd.lib(_tolower.obj) : error LNK2001: unresolved external symbol __calloc_dbg
+libcpmtd.lib(locale.obj) : error LNK2001: unresolved external symbol __calloc_dbg
+libcpmtd.lib(wlocale.obj) : error LNK2001: unresolved external symbol __free_dbg
+libcpmtd.lib(xlocale.obj) : error LNK2001: unresolved external symbol __free_dbg
+libcpmtd.lib(xwcsxfrm.obj) : error LNK2001: unresolved external symbol __free_dbg
+libcpmtd.lib(StlCompareStringA.obj) : error LNK2001: unresolved external symbol __free_dbg
+libcpmtd.lib(cout.obj) : error LNK2001: unresolved external symbol __free_dbg
+libcpmtd.lib(cerr.obj) : error LNK2001: unresolved external symbol __free_dbg
+libcpmtd.lib(StlLCMapStringA.obj) : error LNK2001: unresolved external symbol __free_dbg
+libcpmtd.lib(locale.obj) : error LNK2001: unresolved external symbol __free_dbg
+pngwritergo.obj : error LNK2001: unresolved external symbol __free_dbg
+pngwriter.lib(pngwriter.obj) : error LNK2001: unresolved external symbol __free_dbg
+libcpmtd.lib(locale0.obj) : error LNK2001: unresolved external symbol __free_dbg
+libcpmtd.lib(cin.obj) : error LNK2001: unresolved external symbol __free_dbg
+libcpmtd.lib(wlocale.obj) : error LNK2001: unresolved external symbol __malloc_dbg
+libcpmtd.lib(xlocale.obj) : error LNK2001: unresolved external symbol __malloc_dbg
+libcpmtd.lib(xwcsxfrm.obj) : error LNK2001: unresolved external symbol __malloc_dbg
+libcpmtd.lib(StlCompareStringA.obj) : error LNK2001: unresolved external symbol __malloc_dbg
+libcpmtd.lib(cout.obj) : error LNK2001: unresolved external symbol __malloc_dbg
+libcpmtd.lib(cerr.obj) : error LNK2001: unresolved external symbol __malloc_dbg
+libcpmtd.lib(StlLCMapStringA.obj) : error LNK2001: unresolved external symbol __malloc_dbg
+libcpmtd.lib(locale.obj) : error LNK2001: unresolved external symbol __malloc_dbg
+pngwritergo.obj : error LNK2001: unresolved external symbol __malloc_dbg
+pngwriter.lib(pngwriter.obj) : error LNK2001: unresolved external symbol __malloc_dbg
+libcpmtd.lib(locale0.obj) : error LNK2001: unresolved external symbol __malloc_dbg
+libcpmtd.lib(cin.obj) : error LNK2001: unresolved external symbol __malloc_dbg
+libcpmtd.lib(xmbtowc.obj) : error LNK2001: unresolved external symbol __CrtDbgReportW
+libcpmtd.lib(StlCompareStringA.obj) : error LNK2001: unresolved external symbol __CrtDbgReportW
+libcpmtd.lib(StlLCMapStringA.obj) : error LNK2001: unresolved external symbol __CrtDbgReportW
+libcpmtd.lib(locale.obj) : error LNK2001: unresolved external symbol __CrtDbgReportW
+libcpmtd.lib(wlocale.obj) : error LNK2001: unresolved external symbol __CrtDbgReportW
+libcpmtd.lib(xlocale.obj) : error LNK2001: unresolved external symbol __CrtDbgReportW
+libcpmtd.lib(syserror.obj) : error LNK2001: unresolved external symbol __CrtDbgReportW
+libcpmtd.lib(cin.obj) : error LNK2001: unresolved external symbol __CrtDbgReportW
+libcpmtd.lib(cout.obj) : error LNK2001: unresolved external symbol __CrtDbgReportW
+libcpmtd.lib(cerr.obj) : error LNK2001: unresolved external symbol __CrtDbgReportW
+pngwritergo.obj : error LNK2001: unresolved external symbol __CrtDbgReportW
+pngwriter.lib(pngwriter.obj) : error LNK2001: unresolved external symbol __CrtDbgReportW
+libcpmtd.lib(stdthrow.obj) : error LNK2001: unresolved external symbol __CrtDbgReportW
+libcpmtd.lib(xonce.obj) : error LNK2001: unresolved external symbol __CrtDbgReportW
+libcpmtd.lib(_tolower.obj) : error LNK2001: unresolved external symbol __wcsdup_dbg
+libcpmtd.lib(xstrcoll.obj) : error LNK2001: unresolved external symbol __wcsdup_dbg
+libcpmtd.lib(locale.obj) : error LNK2001: unresolved external symbol __realloc_dbg
+H:\Documents\pngwritergo\pngwritergo\Debug\pngwritergo.exe : fatal error LNK1120: 6 unresolved externals
